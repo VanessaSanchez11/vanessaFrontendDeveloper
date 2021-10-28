@@ -1,0 +1,21 @@
+[debug] [2021-10-28T17:23:07.889Z] ----------------------------------------------------------------------
+[debug] [2021-10-28T17:23:07.892Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\APZ\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-28T17:23:07.892Z] CLI Version:   9.21.0
+[debug] [2021-10-28T17:23:07.893Z] Platform:      win32
+[debug] [2021-10-28T17:23:07.893Z] Node Version:  v16.6.1
+[debug] [2021-10-28T17:23:07.894Z] Time:          Thu Oct 28 2021 12:23:07 GMT-0500 (hora estándar de Colombia)
+[debug] [2021-10-28T17:23:07.894Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-28T17:23:07.902Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-28T17:23:07.902Z] > authorizing via signed-in user (vanessa.sanchezmc@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\APZ\Documents\Portfolio\portfolio
+
